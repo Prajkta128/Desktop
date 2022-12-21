@@ -1,0 +1,1000 @@
+  1026  docker ps 
+ 1027  history
+ 1028  docker run -it -d --name ubantu08 ubuntu
+ 1029  docker ls
+ 1030  docker ps 
+ 1031  docker kill eeacae5425b7
+ 1032  docker ps
+ 1033  docker run -it -d --name ubantu03 -p 80:80 ubuntu
+ 1034  docker run -it -d --name ubantu03 ubuntu
+ 1035  docker run --help
+ 1036  docker container create --name praju01 prajkta
+ 1037  docker ps
+ 1038  docker container ls -a
+ 1039  docker container start praju01
+ 1040  docker container ls -a
+ 1041  docker run -it -d --name ubantu03 ubuntu
+ 1042  docker container start praju01
+ 1043  docker container --attach praju01
+ 1044  docker container attach praju01
+ 1045  docker container start praju01
+ 1046  docker run -it -d --name u praju01
+ 1047  docker run -it -d --name u praju01 ubuntu
+ 1048  docker run -it -d --name u praju01 prajkta
+ 1049  ls
+ 1050  cd ..
+ 1051  su diamanti
+ 1052  docker run -it -d --name ubantu05 ubuntu
+ 1053  docker ps
+ 1054  docker ps -a
+ 1055  ps
+ 1056  docker container attach ubantu05
+ 1057  docker build dockernginx .
+ 1058  sudo docker build dockernginx .
+ 1059  docker build -t  dockernginx .
+ 1060  sudo docker build -t  dockernginx .
+ 1061  docker container -d -p 5000:80 dockernginx:latest
+ 1062  sudo docker container -d -p 5000:80 dockernginx:latest
+ 1063  docker container -d -p 5000:80 dockernginx:latest
+ 1064  sudo su
+ 1065  docker ps
+ 1066  sudo su 
+ 1067  docker container run -d -p 5000:80 dockernginx:latest
+ 1068  sudo docker container run -d -p 5000:80 dockernginx:latest
+ 1069  docker ps
+ 1070  sudo su
+ 1071  sudo docker image build -t python:0.0.2 /home/prajkta/Desktop/python/docker_ass2
+ 1072  docker images
+ 1073  docker ps
+ 1074  docker ps -a
+ 1075  sudo su 
+ 1076  /bin/python3 /home/prajkta/Desktop/python/test.py
+ 1077  docker image build -t python:0.0.1 /home/prajkta/Desktop/python/docker_assignment
+ 1078  cd ..
+ 1079  cd ...
+ 1080  cd ..
+ 1081  ls
+ 1082  docker image build -t python:0.0.1 /home/prajkta/Desktop/PYTHON/docker_assignment
+ 1083  cd Desktop/
+ 1084  ls
+ 1085  cd pyt
+ 1086  cd python/
+ 1087  ls
+ 1088  cd docker_assigment/
+ 1089  ls
+ 1090  docker image build -t python:0.0.1 / .
+ 1091  docker image build -t python:0.0.1 
+ 1092  docker image build -t python:0.0.1 . 
+ 1093  docker image build -t python:0.0.1 /home/prajkta/Desktop/python/docker_assigment
+ 1094  docker rm -f $(docker ps -a -q)
+ 1095  docker image build -t python:0.0.1 /home/prajkta/Desktop/python/docker_assigment
+ 1096  docker rm -f $(docker ps -a -q)
+ 1097  docker login
+ 1098  docker image build -t python:0.0.1 /home/prajkta/Desktop/python/docker_assigment
+ 1099  python version
+ 1100  docker image build -t python:0.01 .
+ 1101  docker image build -t python:0.0.1 .
+ 1102  docker image build -t python:0.0.1 ./
+ 1103  docker image build -t python:0.0.1 /.
+ 1104  cd ~
+ 1105  docker image build -t python:0.0.1 /home/prajkta/Desktop/python/docker_assigment
+ 1106  sudo docker image build -t python:0.0.1 /home/prajkta/Desktop/python/docker_assigment
+ 1107  docker image
+ 1108  sudo docker image
+ 1109  docker ls
+ 1110  docker ls -l
+ 1111  docker ps
+ 1112  docker ps -a
+ 1113  docker ls -a
+ 1114  sudo su
+ 1115  docker ps
+ 1116  docker ps -a
+ 1117  docker images
+ 1118  docker run -it -d --name ubantu01 alpine
+ 1119  docker ps 
+ 1120  cd ..
+ 1121  sudo docker images build -t python:0.0.2 /home/prajkta/Desktop/python/docker_ass2
+ 1122  sudo su
+ 1123  ls
+ 1124  sudo su
+ 1125  docker rub -it -d --name ubantu04 ubuntu
+ 1126  docker run -it -d --name ubantu04 ubuntu
+ 1127  docker ps
+ 1128  docker container attach b36083
+ 1129  ls
+ 1130  cd home/
+ 1131  ls
+ 1132  cd prajkta
+ 1133  ls
+ 1134  cd Desktop/
+ 1135  ls
+ 1136  cd htmlapp2
+ 1137  mkdir htmlapp2
+ 1138  cd htmlapp2
+ 1139  ls
+ 1140  vi info.txt
+ 1141  cat info.txt 
+ 1142  ls
+ 1143  docker run htmlapp2.
+ 1144  docker run htmlapp2 .
+ 1145  sudo docker run htmlapp2 .
+ 1146  sudo docker image build -t pytho:0.0.3 /home/prajkta/Desktop/htmlapp2
+ 1147  docker ps
+ 1148  sudo docker ps 
+ 1149  sudo docker ls -a
+ 1150  sudo docker ps -a
+ 1151  sudo docker image build -t htmlapp:0.1 /home/prajkta/Desktop/htmlapp2 .
+ 1152  sudo docker build -t htmlapp:0.1 /home/prajkta/Desktop/htmlapp2 .
+ 1153  sudo docker build -t  htmlapp:0.1 /home/prajkta/Desktop/htmlapp2 .
+ 1154  sudo su
+ 1155  /bin/python3 /home/prajkta/Desktop/python/docker_ass2/test1.py
+ 1156  sudo su
+ 1157  ls 
+ 1158  cd Desktop
+ 1159  ls
+ 1160  cd python
+ 1161  ls
+ 1162  mkdir docker_ass2
+ 1163  /bin/python3 /home/prajkta/Desktop/python/docker_ass2/test1.py
+ 1164  ls
+ 1165  cd docker_ass2
+ 1166  /bin/python3 /home/prajkta/Desktop/python/docker_ass2/test1.py
+ 1167  cd ~
+ 1168  python -m pip install selenium
+ 1169  cd Desktop/
+ 1170  cd py
+ 1171  cd python/
+ 1172  python -m pip install selenium
+ 1173  python3 -m pip install selenium
+ 1174  pip install selenium
+ 1175  sudo pip install selenium
+ 1176  cd ~
+ 1177  pip install selenium
+ 1178  sudo apt install python3-pip
+ 1179  pip install selenium
+ 1180  /bin/python3 /home/prajkta/Desktop/python/docker_ass2/test1.py
+ 1181  pip install selenium
+ 1182  pip install -U selenium
+ 1183  /bin/python3 /home/prajkta/Desktop/python/docker_ass2/test1.py
+ 1184  sudo su
+ 1185  ls
+ 1186  cd ..
+ 1187  locate prajkta
+ 1188  ls
+ 1189  cd tmp
+ 1190  ls
+ 1191  cd ..
+ 1192  history
+ 1193  docker inspect prajkta
+ 1194  docker volume inspect prajkta
+ 1195  ls
+ 1196  cd /var/lib/docker/volumes/prajkta/_data
+ 1197  cd lib
+ 1198  ls
+ 1199  cd docker/
+ 1200  ls
+ 1201  cd ..
+ 1202  ls
+ 1203  cd var
+ 1204  ls
+ 1205  cd lib
+ 1206  ls
+ 1207  cd docker/
+ 1208  ls
+ 1209  cd volumes
+ 1210  ls
+ 1211  cat metadata.db 
+ 1212  ls -l
+ 1213  docker version
+ 1214  docker info
+ 1215  docker
+ 1216  docker stop ubantu05
+ 1217  docker ps -a
+ 1218  docker rm ubantu05
+ 1219  docker ps -a
+ 1220  docker
+ 1221  ls
+ 1222  docker cp data praju01
+ 1223  cp data docker praju01
+ 1224  docker run praju01
+ 1225  docker cp data praju01 prajkta
+ 1226  docker run praju01 prajkta
+ 1227  docker run --help
+ 1228  docker run -it -d  praju01 prajkta
+ 1229  docker run praju01 ubuntu
+ 1230  docker container run --publish 80:80 rginx
+ 1231  docker container run --publish 80:80 nginx
+ 1232  docker container run --publish 80:80 --detach  nginx
+ 1233  docker container ls
+ 1234  docker container stop 1c55
+ 1235  docker container ls
+ 1236  docker container ls -a
+ 1237  docker container run --publish 80:80 --detach --name webhost nginx
+ 1238  docker container ls -a
+ 1239  docker container logs webhost
+ 1240  docker container top webhost
+ 1241  sudo su
+ 1242  ls
+ 1243  cd ..
+ 1244  cd .
+ 1245  cd ..
+ 1246  ls
+ 1247  cd /
+ 1248  ls
+ 1249  cd /home/prajkta
+ 1250  ls
+ 1251  docker volume create prajkta
+ 1252  docker ls -l
+ 1253  docker ls 
+ 1254  docker ps
+ 1255  docker volume inspect prajkta
+ 1256  docker run -itd -v prajkta:/prajdata alpine
+ 1257  docker ps
+ 1258  docker container attach 6e87
+ 1259  docker ps
+ 1260  docker ps -l
+ 1261  docker rm -f 6e87100e284f
+ 1262  docker ps -l
+ 1263  sudo su
+ 1264  ls
+ 1265  cd docker
+ 1266  ls
+ 1267  cd volumes
+ 1268  ls
+ 1269  ls -l
+ 1270  cd ..
+ 1271  ls -l
+ 1272  sudo su
+ 1273  ls
+ 1274  cd /var
+ 1275  ls
+ 1276  cd lib/
+ 1277  ls
+ 1278  cd docker/
+ 1279  cd docker
+ 1280  cd /docker
+ 1281  ls
+ 1282  cd docker
+ 1283  ls -l
+ 1284  chmod a+rwx docker
+ 1285  chmod g+rwx docker
+ 1286  chmod g+rw docker
+ 1287  sudo su
+ 1288  cd ~
+ 1289  docker run -it -d --name ubantu08 ubuntu
+ 1290  docker ps
+ 1291  docker container ls
+ 1292  docker run -itd alpine
+ 1293  docker ps
+ 1294  docker container attach alpine
+ 1295  docker container attach 25b3
+ 1296  doker ps
+ 1297  docker ps
+ 1298  docker rm -f a719
+ 1299  docker ps
+ 1300  docker run -itd alpine
+ 1301  doker ps
+ 1302  docker ps
+ 1303  docker container attach 03fe
+ 1304  clear
+ 1305  docker volume create hari
+ 1306  docker volume inspect hari
+ 1307  docker run -itd -v hari:/haridata
+ 1308  docker run -itd -v hari:/haridata alpine
+ 1309  docker ps
+ 1310  docker container attach a6e32
+ 1311  docker ps
+ 1312  docker container ps
+ 1313  docker ls
+ 1314  docker ps
+ 1315  docker rm -f a6e32
+ 1316  docker ls
+ 1317  docker container ls
+ 1318  sudo su
+ 1319  ls
+ 1320  cd ~
+ 1321  ls
+ 1322  docker container run -d --name htmlapp -p 8080:8080 htmlapp:0.1
+ 1323  ls
+ 1324  cd Desktop/
+ 1325  ls
+ 1326  mv html htmlapplication
+ 1327  ls
+ 1328  cd htmlapplication/
+ 1329  ls
+ 1330  cat index.html 
+ 1331  docker build -t htmlapp:01 .
+ 1332  sudo docker build -t htmlapp:01 .
+ 1333  apk add docker
+ 1334  sudo docker build -t htmlapp:01 .
+ 1335  ls
+ 1336  sudo docker build -t htmlapp:01 .
+ 1337  /bin/sh -c apk add --update nodejs nodejs-npm
+ 1338  docker ps
+ 1339  docker ls
+ 1340  docker container ls
+ 1341  docker image ls
+ 1342  sudo docker build -t htmlapp:01 .
+ 1343  docker build -t htmlapp:01 .
+ 1344  cd ..
+ 1345  cd
+ 1346  sudo yum install -y yum-utils
+ 1347  sudo yum install docker
+ 1348  ls
+ 1349  sudo docker
+ 1350  sudo docker su
+ 1351  sudo su
+ 1352  docker container top webhost
+ 1353  clear
+ 1354  docker container ls -a
+ 1355  docker container rm d974
+ 1356  docker container ls -a
+ 1357  docker container rm 5d2f
+ 1358  sudo su
+ 1359  ls
+ 1360  cd Downloads/
+ 1361  ls
+ 1362  sudo apt install teamviewer_15.35.7_amd64.deb
+ 1363  sudo apt install /teamviewer_15.35.7_amd64.deb
+ 1364  sudo apt install /home/prajkta/Downloads/teamviewer_15.35.7_amd64.deb 
+ 1365  cd ..
+ 1366  docker version
+ 1367  ls
+ 1368  docker ps
+ 1369  sudo su
+ 1370  docker run --name some-nginx -d some-content-nginx
+ 1371  sudo su
+ 1372  ls
+ 1373  cd ..
+ 1374  ls
+ 1375  docker images
+ 1376  sudo docker images
+ 1377  docker ps
+ 1378  sudo su
+ 1379  sudo docker images
+ 1380  ls
+ 1381  docker images -a
+ 1382  ls
+ 1383  docker ls
+ 1384  docker ls -a
+ 1385  docker ps
+ 1386  docker ps -a
+ 1387  sudo su
+ 1388  docker rm -f 682e
+ 1389  sudo su
+ 1390  sudo docker stop bbed68e7467e
+ 1391  sudo docker inspect bbed68e7467e
+ 1392  sudo docker inspect bbed68e7467e | grep -i user
+ 1393  sudo docker inspect bbed68e7467e  > in.txt
+ 1394  vim in.txt 
+ 1395  sudo docker ps
+ 1396  sudo docker pause bbed68e7467e
+ 1397  sudo docker stop  bbed68e7467e
+ 1398  sudo systemctl status docker 
+ 1399  sudo systemctl restart docker 
+ 1400  sudo docker stop  bbed68e7467e
+ 1401  sudo journalctl -u docker 
+ 1402  sudo journalctl -u docker  
+ 1403  docker ps -a
+ 1404  ps aux | grep ubantu
+ 1405  sudo docker rmi alpine
+ 1406  sudo docker rmi alpine -f
+ 1407  sudo su
+ 1408  ls
+ 1409  sudo su
+ 1410  ls
+ 1411  rmdir getting-started/
+ 1412  rmdir-f  getting-started/
+ 1413  ls -l
+ 1414  chmos a+rwx getting-started/
+ 1415  chmos a+rwx getting-started
+ 1416  chmod a+rwx getting-started
+ 1417  ls -l
+ 1418  sudo su
+ 1419  sudo docker stop 73bb94414cad
+ 1420  sudo su
+ 1421  sudo usermod -aG kvm prajkta
+ 1422  docker ps
+ 1423  cd ..
+ 1424  ls
+ 1425  modprobe kvm
+ 1426  ls -al /dev/kvm
+ 1427  sudo usermod -aG kvm $prajkta
+ 1428  sudo usermod -aG kvm prajkta
+ 1429  ls -al /dev/kvm
+ 1430  sudo usermod -aG  prajkta
+ 1431  docker login
+ 1432  cd ..
+ 1433  ls
+ 1434  cd ..
+ 1435  exit
+ 1436  ls
+ 1437  wget https://desktop.docker.com/linux/main/amd64/docker-desktop-4.12.0-amd64.deb
+ 1438  sudo apt remove docker-desktop
+ 1439  rm -r $HOME/.docker/desktop
+ 1440  sudo rm /usr/local/bin/com.docker.cli
+ 1441  sudo apt purge docker-desktop
+ 1442  sudo apt install ./docker-desktop-*-amd64.deb
+ 1443  systemctl --user start docker-desktop
+ 1444  systemctl --user enable docker-desktop
+ 1445  docker login
+ 1446  gpg --generate-key
+ 1447  pass init 65A3683D9499CF8E2B75C310E868980B71A81B08
+ 1448  docker login
+ 1449  docker ps
+ 1450  docker run -d -p 80:80 docker/getting-started
+ 1451  docker ps
+ 1452  docker rm -f 392db1a15cae
+ 1453  gpg --generate-key
+ 1454  pass init F768AF09F9169FA5715DFFD7ABE004A1A654EB77
+ 1455  pass insert docker-credential-helpers/docker-pass-initialized-check
+ 1456  pass show docker-credential-helpers/docker-pass-initialized-check
+ 1457  docker-credential-pass list
+ 1458  sudo apt install golang-docker-credential-helpers
+ 1459  sudo update
+ 1460  sudo apt update
+ 1461  sudo apt upgrade
+ 1462  docker login
+ 1463  cd ../..
+ 1464  docker login
+ 1465  docker ps
+ 1466  docker ps -a
+ 1467  sudo su
+ 1468  sudo usermod -aG docker $USER
+ 1469  docker login
+ 1470  docker ps
+ 1471  docker run -d -p 80:80 docker/getting-started
+ 1472  docker ps
+ 1473  ps aux | grep nginx
+ 1474  docker rm -f 4606
+ 1475  docker rm -f 65eeb
+ 1476  docker run -d -p 9000:80 docker/getting-started
+ 1477  kubectl cluster -info
+ 1478  sudo snap install kubectl
+ 1479  snap install kubectl
+ 1480  docker compose version
+ 1481  docker-compose.yml.
+ 1482  sudo su
+ 1483  ls
+ 1484  cd ..
+ 1485  ls
+ 1486  docker_compose/
+ 1487  cd docker_compose/
+ 1488  ls
+ 1489  docker ps
+ 1490  docker ps -a
+ 1491  docker-compose down
+ 1492  cat docker-compose.yml 
+ 1493  docker network ls
+ 1494  docker network inspect bridge
+ 1495  cd -
+ 1496  ls
+ 1497  ps aux | grep nginx
+ 1498  kill -9 13852
+ 1499  kill -9 18040
+ 1500  kill -9 8932
+ 1501  docker ps
+ 1502  docker rm -f d0e59
+ 1503  docker ls
+ 1504  docker ps
+ 1505  sudo su
+ 1506  kubectl get pod
+ 1507  sudo snap install kubectl
+ 1508  kubectl get pod
+ 1509  snap install kubectl
+ 1510  ls
+ 1511  cd ../..
+ 1512  ls
+ 1513  cd home/
+ 1514  cd /home
+ 1515  ls
+ 1516  cd prajkta/
+ 1517  ls
+ 1518  cd Desktop/
+ 1519  ls
+ 1520  mkdir docker_compose
+ 1521  cd docker_compose/
+ 1522  touch docker-compose.yml.
+ 1523  ls
+ 1524  vi docker-compose.yml. 
+ 1525  docker compose -v
+ 1526  docker-compose -v
+ 1527  ls
+ 1528  mv docker-compose.yml. docker_compose.yml
+ 1529  ls
+ 1530  vi docker_compose.yml 
+ 1531  cat docker_compose.yml 
+ 1532  docker-compose config
+ 1533  mv docker_compose.yml docker-compose.yml 
+ 1534  ls
+ 1535  docker-compose config
+ 1536  docker-compose up -d
+ 1537  docker ps
+ 1538  docker ps -a
+ 1539  ls
+ 1540  docker ps
+ 1541  ps -a
+ 1542  docker-compose up 
+ 1543  nano docker-compose.yml
+ 1544  docker-compose up
+ 1545  docker-compose up -d
+ 1546  docker-compose up
+ 1547  docker ps
+ 1548  minikube dashboard
+ 1549  ls
+ 1550  cd Desktop/
+ 1551  ls
+ 1552  cd kubernetes/
+ 1553  ls
+ 1554  cd replica/
+ 1555  ls
+ 1556  kubectl get replicaset
+ 1557  kubectl create -f replicaset.yaml 
+ 1558  kubectl create -f replicaset.yaml
+ 1559  kubctle get pods
+ 1560  kubectle get pods
+ 1561  kubectl create -f replicaset.yaml
+ 1562  ls
+ 1563  kubectl create -f replicaset1.yaml
+ 1564  kubectl create -f repolicaset1.yaml
+ 1565  kubectl create -f reolicaset1.yaml
+ 1566  minikube start
+ 1567  kubectl get po -A
+ 1568  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+ 1569  sudo install minikube-linux-amd64 /usr/local/bin/minikube
+ 1570  kubectl get po -A
+ 1571  snap install kubectl
+ 1572  sudo snap install kubectl
+ 1573  --classic
+ 1574  snap install kubectl --classic
+ 1575  kubectl get po -A
+ 1576  ls
+ 1577  cd Desktop/
+ 1578  ls
+ 1579  cd Kub
+ 1580  cd kubernetes/
+ 1581  ls
+ 1582  rm pod.yaml 
+ 1583  ls
+ 1584  kunectl get pod
+ 1585  kubectl get pod
+ 1586  kubectl apply -f pod.yml
+ 1587  kubectl apply -f pod.yaml
+ 1588  ls
+ 1589  kubectl apply -f pod.yaml
+ 1590  minikube kubectl -- get po -A
+ 1591  minikube dashboard
+ 1592  kubectl run nginx --image=nginx
+ 1593  kubectl get pods
+ 1594  kubectl describe pod nginx
+ 1595  kubectl get pods -o wide
+ 1596  kubectl delete pos nginx
+ 1597  kubectl delete pod nginx
+ 1598  kubectl get pods
+ 1599  kubectl apply -f
+ 1600  ls
+ 1601  kubectl apply -f pod1.yaml
+ 1602  kubectl get pods
+ 1603  kubectl apply -f pod1.yaml
+ 1604  kubectl get pods
+ 1605  cat pod1.yaml 
+ 1606  kubectl delete pod redis
+ 1607  kubectl apply -f pod1.yaml
+ 1608  ls
+ 1609  kubectl delete pod redis
+ 1610  kubectl describe pod redis
+ 1611  kubectl get pods
+ 1612  kubectl run -f pod1.yaml 
+ 1613  kubectl apply -f pod1.yaml 
+ 1614  kubectl get pods
+ 1615  kubectl describe pod redis
+ 1616  kubectl delete pod redis
+ 1617  kubectl run redis --image redis
+ 1618  kubectl describe pod redis
+ 1619  kubectl describe pod nginx
+ 1620  kubectl get pods
+ 1621  kubectl describe cluster
+ 1622  kubectl describe nginx
+ 1623  kubectl describe pod nginx
+ 1624  kubectl describe nodes
+ 1625  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 1626  sudo apt install ./google-chrome-stable_current_amd64.deb
+ 1627  sudo apt install google-chrome-stable
+ 1628  minikube status
+ 1629  kubectl ge nodes
+ 1630  kubectl get nodes
+ 1631  ls
+ 1632  cd replica/
+ 1633  ls
+ 1634  kubectl create -f replicaset.yaml 
+ 1635  kubectl version
+ 1636  kubectl create -f replicaset.yaml 
+ 1637  kubectl get pod
+ 1638  kubectl delete pod nginx
+ 1639  ls
+ 1640  kubectl create -f replicaset.yaml 
+ 1641  kubectl apply -f replicaset.yaml 
+ 1642  kubectl apply -f https://kubernetes.io/examples/replicaset.yaml
+ 1643  kubectl appversion
+ 1644  ls
+ 1645  cd ..
+ 1646  ls
+ 1647  cd Deployment/
+ 1648  ld
+ 1649  ls
+ 1650  kubectl create -f deployement.yaml 
+ 1651  ls
+ 1652  cd ..
+ 1653  ls
+ 1654  cd ..
+ 1655  ls
+ 1656  cd kubernetes/
+ 1657  ls
+ 1658  cd services/
+ 1659  LS
+ 1660  ls
+ 1661  kubectl create -f service-defination.yaml 
+ 1662  docker pull nginx
+ 1663  docker run --name some-nginx -d -p 8080:80 nginx
+ 1664  ps aux | grep nginx
+ 1665  kill -9 40012
+ 1666  kill -9 40023
+ 1667  kill -9 400414
+ 1668  docker pull nginx
+ 1669  docker run --name some-nginx -d -p 8080:80 nginx
+ 1670  sudo su
+ 1671  kubectl get pods -n kube-system
+ 1672  minikube start
+ 1673  docker pull nginx
+ 1674  minikube start
+ 1675  minikube stop
+ 1676  minikube start
+ 1677  kubectl run nignix --image nginx
+ 1678  kubectl get pod
+ 1679  kubectl delete pod nginx
+ 1680  kubectl delete ngnix
+ 1681  kubectl delete pod nignix
+ 1682  curl http://localhost:6443 -k
+ 1683  kube proxy
+ 1684  pwd
+ 1685  cd home
+ 1686  cd home/
+ 1687  ls
+ 1688  cd Desktop/
+ 1689  ls
+ 1690  cd python/
+ 1691  ls
+ 1692  cd python2/
+ 1693  ls
+ 1694  export APP_COLOR=blue; python app.py
+ 1695  export APP_COLOR=blue; python pytthon.py
+ 1696  docker run -e APP_COLOR=blue
+ 1697  simple-webapp-color
+ 1698  docker ps
+ 1699  kubeadm upgrade plan
+ 1700  etcdctl backup
+ 1701  minikube start
+ 1702  p
+ 1703  kubectl get pods
+ 1704  .letcd
+ 1705  ./etcd
+ 1706  ps aux
+ 1707  ls
+ 1708  cd Desktop/
+ 1709  ls
+ 1710  vi docker.txt
+ 1711  ls
+ 1712  docker build -t docker.txt
+ 1713  docker run -t docker.txt
+ 1714  docker ps
+ 1715  minikube stop
+ 1716  docker ps
+ 1717  docker run --privileged
+ 1718  docker run --privileged ubantu
+ 1719  ip link
+ 1720  ip route
+ 1721  minikube start
+ 1722  minikube status
+ 1723  ls
+ 1724  vi pod.yml
+ 1725  kubectl apply -f pod.yml 
+ 1726  k get pod
+ 1727  kubectl get pods
+ 1728  kubectl delete pod redis
+ 1729  kubectl get pods
+ 1730  kubectl exec testpod -it -c c00 -- /bin/bash
+ 1731  kubectl describe pod
+ 1732  arp
+ 1733  grep -r "prajkta" .*
+ 1734  find . -typef name".txt"
+ 1735  find . -type f name".txt"
+ 1736  find . -type f name ".txt"
+ 1737  find . -type f -name ".txt"
+ 1738  locate prajkta
+ 1739  find . -typr f name hr1.txt
+ 1740  find . -type f name hr1.txt
+ 1741  $ find . -type f -name *.txt
+ 1742  $ find . -Type f -name *.txt
+ 1743  find. -type f -name "*.txt"
+ 1744  find . -type f -name "*.txt"
+ 1745  minikube stop
+ 1746  docker network ls
+ 1747  ip link
+ 1748  grep -r "prajkta" 8.
+ 1749  grep -r "prajkta" *.
+ 1750  grep -r "prajkta" .*
+ 1751  ip netns
+ 1752  ip addr
+ 1753  ip netns
+ 1754  ip link
+ 1755  docker nginx
+ 1756  docker ls
+ 1757  docker ps
+ 1758  docker run --name some-nginx -d nginx
+ 1759  docker run --name some-nginx3 -d nginx
+ 1760  docker ps
+ 1761  hostname -i
+ 1762  curl http://127.0.1.1:80
+ 1763  curl http://127.17.0.3:80
+ 1764  docker ps
+ 1765  doker delete 3ecb33dd085b
+ 1766  docker rm -f 3ecb33dd085b
+ 1767  docker run --name some-nginx3 -d -p 8080:80 nginx
+ 1768  curl http://127.17.0.3:80
+ 1769  curl http://127.0.1.1:80
+ 1770  ps aux
+ 1771  ls aux | grep nginx
+ 1772  ps aux | grep nginx
+ 1773  kill -9 30787 
+ 1774  kill -9 9076
+ 1775  kill -9 2372
+ 1776  kill -KILL 30787
+ 1777  ls
+ 1778  docker ps
+ 1779  docker rm -f c70426966f3f
+ 1780  ls
+ 1781  ip link
+ 1782  ip route
+ 1783  ps --help
+ 1784  man ps
+ 1785  minikube start
+ 1786  ps aux | grep kubelet
+ 1787  s\ls
+ 1788  ls
+ 1789  ls /opt/cni
+ 1790  ls 
+ 1791  find .-typed -namecni
+ 1792  find .-typed -name cni
+ 1793  find .-type d -name cni
+ 1794  find . -type d -name cni
+ 1795  cd docker/desktop/cni
+ 1796  cd /docker/desktop/cni
+ 1797  cd ./.docker/desktop/cni
+ 1798  ls
+ 1799  cat 99-loopback.conf 
+ 1800  cat 10-default.conflist 
+ 1801  cd ..
+ 1802  cd ~
+ 1803  kubectl logs weave-net-5gcmb weave -n kube-system
+ 1804  kubectl logs
+ 1805  kubectl get pods -n kube-system
+ 1806  ps -aux | grep kubelet | grep --color container-runtime
+ 1807  minikube start
+ 1808  docker ps
+ 1809  ls
+ 1810  cd Desktop/
+ 1811  ls
+ 1812  cd docker
+ 1813  ls
+ 1814  cd ..
+ 1815  ls
+ 1816  mkdir 2pod.yml
+ 1817  ls
+ 1818  cd 2pod.yml/\
+ 1819  vi pod2.yml
+ 1820  vi pod3.yml
+ 1821  vi pod2.yml 
+ 1822  kubectl apply -f pod2.yml pod3.yml 
+ 1823  kubectl get pod
+ 1824  kubectl delete pod testpod
+ 1825  kubectl apply -f pod2.yml  
+ 1826  kubectl apply -f pod3.yml  
+ 1827  kubectl get pods
+ 1828  kubectl get pods -o wide
+ 1829  curl 172.17.0.5:80
+ 1830  ps aux | grep nginx
+ 1831  kill 9 7168
+ 1832  su 
+ 1833  sudo su 
+ 1834  ls
+ 1835  minikube start
+ 1836  kubectl get pods
+ 1837  kubectl get pods -o wide
+ 1838  curl 172.17.0.3:80
+ 1839  sudo service
+ 1840  sudo service ssh status
+ 1841  sudo apt-get install openssh-server
+ 1842  curl localhost:80
+ 1843  apt update && apt install curl
+ 1844  sudo usermod -a -G root prajkta
+ 1845  apt update && apt install curl
+ 1846  kubectl get pod -o wide
+ 1847  curl 172.17.0.5:80
+ 1848  minikube restart
+ 1849  minikube status
+ 1850  kubectl get pod
+ 1851  kubectl delete pod testpod1
+ 1852  kubectl delete pod testpod3
+ 1853  vi smaple.conf
+ 1854  ls 
+ 1855  kubectl create configmap mymap --from-file=sample.conf
+ 1856  kubectl create configmap mymap --from-file=smaple.conf
+ 1857  kubectl get configmap
+ 1858  kubectl describe configmap  mymap
+ 1859  ls
+ 1860  cd Desktop/
+ 1861  ls
+ 1862  cd docker
+ 1863  ls
+ 1864  cd ..
+ 1865  cd 2pod.yml/
+ 1866  vi deployconfig.yml
+ 1867  kubectl apply -f deployconfig.yml 
+ 1868  kubectl describe pod deployconfig.yml 
+ 1869  kubectl get pod
+ 1870  kubectl describe pods
+ 1871  kubectl exec myvolconfig -it -- /bin/bash
+ 1872  cd ..
+ 1873  kubectl exec myvolconfig -it -- /bin/bash
+ 1874  kubectl get pod
+ 1875  kubectl delete myvolconfig
+ 1876  kubectl delete pod myvolconfig
+ 1877  kubectl get pods
+ 1878  kubectl get pods -o wide
+ 1879  curl 172.17.0.5:80
+ 1880  sudo apt install curle
+ 1881  apt-get install --yes curl git wget unzip
+ 1882  sudo apt install curl
+ 1883  curl 172.17.0.5:80
+ 1884  sudo su
+ 1885  apt install curl
+ 1886  install curl
+ 1887  sudo snap install curl
+ 1888  kubectl get pods -o wide
+ 1889  curl 172.17.0.5:80
+ 1890  ls
+ 1891  cd Desktop/
+ 1892  ls
+ 1893  cd docker
+ 1894  ls
+ 1895  cd ..
+ 1896  cd 2pod.yml/
+ 1897  ls
+ 1898  vi pod2.yml 
+ 1899  curl 172.17.0.5:80
+ 1900  docker ps
+ 1901  curl -I localhost
+ 1902  ssh localhost
+ 1903  su
+ 1904  sudo su
+ 1905  ssh localhost
+ 1906  ps -aux | grep nginx
+ 1907  kubect get pods -o wide
+ 1908  kubectl get pods -o wide
+ 1909  curl 172.17.0.6:80
+ 1910  history
+ 1911  kubectl get pods -o wide
+ 1912  curl http://127.17.0.5:80
+ 1913  cd /etc/hosts
+ 1914  cd ~
+ 1915  /etc/hosts
+ 1916  ls
+ 1917  cd ..
+ 1918  ls
+ 1919  cd ..
+ 1920  ls
+ 1921  /etc/hosts
+ 1922  cd /etc/hosts
+ 1923  cd etc
+ 1924  ls
+ 1925  cd host
+ 1926  cd ..
+ 1927  ls
+ 1928  cd home/
+ 1929  ls
+ 1930  cd prajkta/
+ 1931  ls
+ 1932  curl --ipv4 -v "https://example.com/";
+ 1933  curl http://127.17.0.5:80
+ 1934  sudo apt install curl
+ 1935  sudo su
+ 1936  ps -aux | grep kube-scheduler
+ 1937  minikube status
+ 1938  minikube start
+ 1939  ps -aux | grep kube-scheduler
+ 1940  ls
+ 1941  ip link
+ 1942  ip addr
+ 1943  minikube start
+ 1944  kubectl logs 
+ 1945  kubectl logs -f web
+ 1946  kubectl get pods
+ 1947  minikube stop
+ 1948  history
+ 1949  minikube start
+ 1950  kubectl describe node
+ 1951  kubectl describe node | grep default
+ 1952  kubectl describe node | grep namespace
+ 1953  kubectl describe node | grep namespaces
+ 1954  history
+ 1955  ls -l
+ 1956  vi linux
+ 1957  ls -l\
+ 1958  ls -l
+ 1959  vi linux
+ 1960  vi linux 
+ 1961  cat linux 
+ 1962  cat >> linux
+ 1963  cat linux
+ 1964  vi linux 
+ 1965  cat linux 
+ 1966  ls
+ 1967  man acl
+ 1968  ls -l
+ 1969  getfacl linux
+ 1970  ls -l
+ 1971  ls
+ 1972  ls -l
+ 1973  rm linux 
+ 1974  ls -l
+ 1975  whatis man
+ 1976  whatis ls
+ 1977  whatis chown
+ 1978  whatis chgrp
+ 1979  cd ~
+ 1980  find . -typef -name linux
+ 1981  find . -type f -name linux  
+ 1982  locate linux
+ 1983  ls
+ 1984  cd Desktop/
+ 1985  ls
+ 1986  echo " hello prajkta how r u " > linux
+ 1987  ls -l
+ 1988  echo " hello prajkta how r u " > linux
+ 1989  ls -l
+ 1990  cat linux 
+ 1991  echo " hor u dear " >> linux
+ 1992  cat linux 
+ 1993  echo " hor u dear " >>> linux
+ 1994  echo " hor u dear " >> linux
+ 1995  cat linux 
+ 1996  ls -ltr
+ 1997  ls -ltr > /home/prajkta/Desktop/linux 
+ 1998  ls
+ 1999  cat linux 
+ 2000  ls -l > /home/prajkta/Desktop/file2
+ 2001  ls -l
+ 2002  cat file2
+ 2003  ls 
+ 2004  cd htmlapp2
+ 2005  ls
+ 2006  mkdir p{1..78}
+ 2007  ls
+ 2008  touch file{1..100}.txt
+ 2009  ls -l
+ 2010  ls -l > /h
+ 2011  ls -l > /home/prajkta/Desktop/file4
+ 2012  ls
+ 2013  cd ..
+ 2014  ls
+ 2015  cat file4
+ 2016  echo "\d `pwd` " >> file4
+ 2017  ls
+ 2018  cat file4
+ 2019  history
+ 2020  cat < file4
+ 2021  echo " `history -n` " > 
+ 2022  echo " `history -n` " > /home/prajkta/Desktop/output
+ 2023  ls
+ 2024  cat output 
+ 2025  echo " `history` " > /home/prajkta/Desktop/output 
